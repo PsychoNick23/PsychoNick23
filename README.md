@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @Nishant Varma
-- 👀 I’m interested in ...IT
-- 🌱 I’m currently learning ...Python
+- Hi, I’m @Nishant Varma
+- I’m interested in ...IT
+- I’m currently learning ...SQL and Java
